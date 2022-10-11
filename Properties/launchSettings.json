@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsyncFizzBuzz": {
+      "commandName": "Project",
+      "commandLineArgs": "100000000"
+    }
+  }
+}
